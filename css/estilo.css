@@ -1,0 +1,49 @@
+body{
+	width: 80%;
+	margin: 55px 100px 50px;
+	background: url(../imagen/fondo.JPG);
+
+}
+.rounded{
+
+	border-radius: 300px; 
+	margin-left: 7%;
+	
+	
+}
+#p1{
+	background: #51d1f6;
+	margin-right: 5%;
+	border-radius: 5px; 
+	padding:15px;
+	box-shadow: 0px 0px 10px 5px black;
+}
+.contenedor{
+	background: white;
+	padding: 5px 5px 50px;
+	box-shadow: 0px 0px 10px 5px black;
+	margin-left: 35%;
+	border-radius: 5px; 
+}
+
+img{
+	border-radius: 90px;
+	
+}
+nav{
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 10px;
+}
+.panel2{
+	margin: 10px 10px 10px;
+}
+#letra{
+	font-family: Century Gothic;
+}
+h1{
+	font-family: Stencil;
+}
+.letra2{
+	font-family:Bernard MT Condensed;
+}
